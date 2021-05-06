@@ -1,0 +1,3 @@
+.wrapper {
+    @apply bg-purple-100 p-3 shadow-md;
+}
