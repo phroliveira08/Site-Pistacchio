@@ -1,4 +1,4 @@
-# Site-Pistacchio
+# app-pistacchio
 
 Um site para apresentação de uma loja e receber avaliações de clientes, onde tem uma funcionalidade que caso estiver ativa o cliente que avaliar a loja pode receber um cupom.
 
